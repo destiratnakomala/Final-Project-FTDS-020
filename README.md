@@ -2,8 +2,11 @@
 # <center> <b> Analisis Marketing Bank untuk Memprediksi klient yang akan Subscribe Deposit Berjangka<br>
 
 Dataset : `Bank Customer Data in VietNam`
+
 HuggingFace: [`Bank-Marketing-Term-Deposit-prediction`](https://huggingface.co/spaces/destiratnakomala/Bank-Marketing-Term-Deposit)
+
 Model 1: [Main Model](https://github.com/destiratnakomala/Final-Project-FTDS-020/blob/main/Bank-Marketing-Term-Deposit/01_Main_desti_ratna_komala.ipynb)
+
 Model 2: [Model Neural Network](https://github.com/destiratnakomala/Final-Project-FTDS-020/blob/main/Bank-Marketing-Term-Deposit/02_sub_desti_ratna_komala.ipynb)
 
 
