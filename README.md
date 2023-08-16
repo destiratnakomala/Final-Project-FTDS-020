@@ -1,5 +1,5 @@
 # Final-Project-RMT-020
-# <center> <b> Analisis Marketing Bank untuk Memprediksi klient yang akan Subscribe Deposit Berjangka<br>
+# <center> <b> Analisis Marketing Bank untuk Memprediksi klien yang akan Subscribe Deposit Berjangka<br>
 
 Dataset : `Bank Customer Data in VietNam`
 
